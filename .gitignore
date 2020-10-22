@@ -4,3 +4,4 @@ SLApiJava.iml
 *.class
 target/*
 .idea
+SlJavaApp.iml
