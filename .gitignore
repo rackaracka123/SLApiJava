@@ -2,3 +2,5 @@ SLApiJava.iml
 *.xml
 !pom.xml
 *.class
+target/*
+.idea
