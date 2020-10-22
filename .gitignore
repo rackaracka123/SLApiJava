@@ -1,6 +1,4 @@
-
-*.xml
-
 SLApiJava.iml
-
+*.xml
+!pom.xml
 *.class
